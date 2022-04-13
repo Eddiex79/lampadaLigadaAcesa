@@ -1,0 +1,2 @@
+# lampadas
+ligaDesligaQuebra
